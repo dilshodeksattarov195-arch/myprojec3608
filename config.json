@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartrncrypt",
+        "uuid": 18191536,
+        "checksum": "5tbfsp"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
